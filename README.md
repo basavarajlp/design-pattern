@@ -1,6 +1,3 @@
-# Design Patterns
-Design Patterns are the well established solutions that can be used for the commonly occuring problems to make the codebase readable, extensible and maintainable.
-
 # SOLID Principles
 ## Single Responsibility Principle
 Every code unit should have precisily single responsibility or the code unit should be handling the single functionality.
@@ -23,4 +20,6 @@ Interface should be as light as possible that is as less methods may be even sin
 ## Dependency Inversion
 No two concrete class should directly depend on each other as it results in tight coupling. It should be loosely coupled with the help of interfaces and abstract classes. This will result in easier extensibility of the codebase.
 
+# Design Patterns
+Design Patterns are the well established solutions that can be used for the commonly occuring problems to make the codebase readable, extensible and maintainable.
 
